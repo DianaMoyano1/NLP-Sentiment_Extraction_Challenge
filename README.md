@@ -1,13 +1,5 @@
 # NLP Sentiment Extraction 
 
-```{r, echo=FALSE}
-# Define variable containing url
-url <- "http://www.online-image-editor.com//styles/2014/images/example_image.png"
-```
-## Some cat!
-<center><img src="`r url`"></center>
+![](`<a href="https://imgbb.com/"><img src="https://i.ibb.co/gMyXvKJ/Simple-Transformers.png" alt="Simple-Transformers" border="0"></a>`)
 
-## Alternatively...
-![](`r url`)
-
-## UPDATE: Wiki to be available in a few days :)
+#### UPDATE: Wiki to be available in a few days :)
