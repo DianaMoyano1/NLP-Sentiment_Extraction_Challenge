@@ -1,5 +1,4 @@
-# NLP Sentiment Extraction 
+# NLP Sentiment Extraction Wiki Page [Here!](https://github.com/DianaMoyano1/NLP-Sentiment_Extraction_Challenge/wiki) 
 
 ![SimpleTransformers](https://i.ibb.co/gMyXvKJ/Simple-Transformers.png)
 
-#### UPDATE: Wiki to be available in a few days :)
