@@ -1,6 +1,6 @@
 ## How to Make AI More Empathetic? A Simple yet Powerful Approach to Sentiment Extraction
               
-This **<ins>is not</ins>** a typical sentiment analysis exercise. Instead of classifying a text’sentiment as positive/negative/neutral, this novel method extracts the words that contributed to that particular sentiment. 
+This **<ins>is not</ins>** a typical sentiment analysis exercise. Instead of classifying a text sentiment as positive/negative/neutral, this novel method extracts the words that contributed to that particular sentiment. 
 
 Text: *“Shia LaBeouf is my hero!”*
 
@@ -20,7 +20,7 @@ Starter pack: https://bit.ly/2Ytn2oh
 Project Wiki Page: https://bit.ly/2NmDLDE
 
 
-**Day and time: June 26, 12:00 pm to 12:30 pm
+**Day and time: June 26, 12:00 pm to 12:30 pm**
 
 Zoom Link: https://bit.ly/2BxsqOu
 
