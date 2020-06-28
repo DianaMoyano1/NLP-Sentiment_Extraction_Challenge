@@ -1,4 +1,7 @@
-## How to Make AI More Empathetic? A Simple yet Powerful Approach to Sentiment Extraction
+### June 27 Update:
+Thank you for supporting us! We will upload the tutorial video in a few days :)
+
+### How to Make AI More Empathetic? A Simple yet Powerful Approach to Sentiment Extraction
               
 This **<ins>is not</ins>** a typical sentiment analysis exercise. Instead of classifying a text sentiment as positive/negative/neutral, this novel method extracts the words that contributed to that particular sentiment. 
 
